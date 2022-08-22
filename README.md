@@ -7,8 +7,9 @@
 - 👋 Hi, I’m Thomas FEVRE
 - 👀 I’m interested in Python, Javascript, SQLs, Fintech, blockchain and AI. Unfortunately, most of my work is in private for confidentiality reasons, so do not hesitate to contact me below !
 - 🌱 I’m currently learning AI
-- 💞️ Currently persuing Computer Science Engineering ,
+- 💞️ Currently persuing Computer Science Engineering in Fintech,
      from ESILV school
+- 👀 You can see <a href="https://thomasfevre.github.io/">my portfolio</a>, and also a summary of  <a href="https://github.com/ThomasFevrePROJETS"> my projects from my previous engineering school</a> (CESI)
 - 📫 From Paris-La Défense
     ,EMAIL- :  fvrethomas@gmail.com , thomas.fevre@viacesi.fr
 
