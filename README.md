@@ -46,17 +46,9 @@
 ![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-## Most Used Languages:
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thomasfevre&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomasfevre&theme=monokai&hide=html)
-
-
 
 <p align="center">
   <b>Open for collaborations.</b>
-     
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasfevre&show_icons=true&theme=dark)
    
 <div align="center">
 <p>Have a good day!</p>
