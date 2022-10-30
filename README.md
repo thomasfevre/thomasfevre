@@ -44,7 +44,9 @@
 ![Sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
+![AlpineJS](https://img.shields.io/badge/AlpineJS-000000?style=for-the-badge&logo=alpineJS&logoColor=white)
+![Solidty](https://img.shields.io/badge/Solidity-092E20?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-F7DF1E?style=for-the-badge&logo=rust&logoColor=black)
 
 
 <p align="center">
