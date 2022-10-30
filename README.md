@@ -11,7 +11,7 @@
      from ESILV school
 - 👀 You can see <a href="https://thomasfevre.github.io/">my portfolio</a>, and also a summary of  <a href="https://github.com/ThomasFevrePROJETS"> my projects from my previous engineering school</a> (CESI)
 - 📫 From Paris-La Défense
-    ,EMAIL- :  fvrethomas@gmail.com , thomas.fevre@viacesi.fr
+- EMAIL :  fvrethomas@gmail.com , thomas.fevre@viacesi.fr
 
 
 #
