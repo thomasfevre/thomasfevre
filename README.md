@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Thomas FEVRE
 - 👀 I’m interested in Solidty, Typescript, SQLs, Fintech, blockchain and AI. Unfortunately, most of my work is in private for confidentiality reasons, so do not hesitate to contact me below !
-- 🌱 
+- 🌱 My main stack is Solidity, TypeScript/JavaScript, Vue/React/Angular for the frontend or Flutter for mobile platforms
 - 💞️ Graduated from ESILV school, Computer Science Engineering in Fintech
 - 👀 You can see <a href="https://thomasfevre.github.io/">my portfolio</a>, and also a summary of  <a href="https://github.com/ThomasFevrePROJETS"> my projects from my previous engineering school</a> (CESI)
 - Send me an Email if you want to see my latest work, on other github accounts
