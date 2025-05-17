@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I specialize in smart contract development (Solidity, Rust on Solana), and also build fullstack web3 Dapps using TypeScript, JS frameworks (Vue/React/Next/Angular...), and mobile platforms like Flutter.
+I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I specialize in smart contract development (Solidity, Rust on Solana), and also build fullstack web3 Dapps using TypeScript, JS  frameworks (Vue/React/Next/Angular), and mobile platforms like Flutter.
 
 ---
 
@@ -56,7 +56,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 <br />
     
 - **BalanceEat [web2]**  
-  Personnal blog with healthy recipe I created (high protein, low fat, low carb)  
+  Personnal blog with healthy recipes I created (high protein, low fat, low carb)  
   🔗 [Visit Website](https://recipe-nodejs-mongodb.onrender.com/)
 
 ---
