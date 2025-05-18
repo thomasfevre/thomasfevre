@@ -42,7 +42,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 <br />
     
 - **ERC-20 Token Alternative**  
-  ERC-1919 is a project I had, after seeing the idea on Crypto Twitter. The purpose was to replace traditional DEX and LP-based trading.
+  ERC-1919 is a project I started after seeing the idea on Crypto Twitter. The purpose was to replace traditional DEX and LP-based trading.
   It introduces a fully on-chain trading model where:
      - Trades happen exclusively via smart contracts — no DEX, no liquidity pools.
      - Mint on buy / Burn on sell — users send ETH to mint tokens, or send tokens to redeem ETH.
