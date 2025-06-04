@@ -42,7 +42,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
   - Built for LLM use via Claude for Desktop or similar tools
     
   🔗 [View Repo](https://github.com/thomasfevre/layerzero-mcp)
-  
+    
 
 - **Loyalty Pay**  
   The project is a Solana-based loyalty rewards dApp that enables merchants to create on-chain loyalty programs for their customers.
