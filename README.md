@@ -32,6 +32,17 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 ### 🧪 Previous Side Projects
 
+- **LayerZero OFT MCP Server**  
+  A Node.js server for creating, deploying, and bridging Omnichain Fungible Tokens (OFTs) across multiple chains using LayerZero.  
+  Designed for integration with agents and LLMs via the Model Context Protocol (MCP).  
+  Features:
+  - Deploy and auto-configure OFTs on multiple testnets
+  - Peer OFTs for cross-chain awareness
+  - Bridge tokens between supported chains
+  - Built for LLM use via Claude for Desktop or similar tools
+  - 
+  🔗 [View Repo](https://github.com/thomasfevre/layerzero-mcp)  
+
 - **Loyalty Pay**  
   The project is a Solana-based loyalty rewards dApp that enables merchants to create on-chain loyalty programs for their customers.
   - The merchant can enter the amount he wants to receive, generate a QR-code, and then the customer scans it and everything is handled in a single transaction (paiement, rewards processing, nft mint/upgrade for the client, etc)
