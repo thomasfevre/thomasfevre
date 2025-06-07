@@ -32,20 +32,22 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 ### 🧪 Previous Side Projects
 
-- **LayerZero OFT MCP Server**  
-  A Node.js server for creating, deploying, and bridging Omnichain Fungible Tokens (OFTs) across multiple chains using LayerZero.  
+- **NO CODE LayerZero OFT MCP Server**
+
+  A Node.js MCP server for creating, deploying, and bridging Omnichain Fungible Tokens (OFTs) across multiple chains using LayerZero.  
   Designed for integration with agents and LLMs via the Model Context Protocol (MCP).  
   Features:
   - Deploy and auto-configure OFTs on multiple testnets
-  - Peer OFTs for cross-chain awareness
+  - **Same address** on every chain
   - Bridge tokens between supported chains
   - Built for LLM use via Claude for Desktop or similar tools
     
-  🔗 [View Repo](https://github.com/thomasfevre/layerzero-mcp)
+  🔗 [View Repo](https://github.com/thomasfevre/layerzero_mcp)
     
 <br />
 
-- **Loyalty Pay**  
+- **Loyalty Pay**
+    
   The project is a Solana-based loyalty rewards dApp that enables merchants to create on-chain loyalty programs for their customers.
   - The merchant can enter the amount he wants to receive, generate a QR-code, and then the customer scans it and everything is handled in a single transaction (paiement, rewards processing, nft mint/upgrade for the client, etc)
       
@@ -54,7 +56,8 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
     
 <br />
 
-- **Token Weighted MultiSig Diamond**  
+- **Token Weighted MultiSig Diamond**
+     
   An experimental repo exploring advanced multi-signature mechanisms using the EIP-2535 Diamond Standard.  This repo compares and iterates on multisig strategies across multiple branches, with an emphasis on upgradability and governance logic.  
   - Traditional multisig logic using owner approvals (main branch) 
   - Facet upgrades (`diamondCut`) gated by multisig confirmations (branch n°2) 
@@ -64,7 +67,8 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 <br />
     
-- **ERC-20 Token Alternative**  
+- **ERC-20 Token Alternative**
+    
   ERC-1919 is a project I started after seeing the idea on Crypto Twitter. The purpose was to replace traditional DEX and LP-based trading.
   It introduces a fully on-chain trading model where:
      - Trades happen exclusively via smart contracts — no DEX, no liquidity pools.
@@ -78,8 +82,10 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 <br />
     
-- **BalanceEat [web2]**  
-  Personnal blog with healthy recipes I created (high protein, low fat, low carb)  
+- **BalanceEat [web2]**
+    
+  Personnal blog with healthy recipes I created (high protein, low fat, low carb)
+    
   🔗 [Visit Website](https://recipe-nodejs-mongodb.onrender.com/)
 
 ---
