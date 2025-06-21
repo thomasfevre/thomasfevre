@@ -56,7 +56,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
   Token **bridging** across chains via LayerZero
   Powered by Wagmi, Viem, and TailwindCSS
 
- 🔗 [View Repo](https://github.com/thomasfevre/layerzero_dapp)
+   🔗 [View Repo](https://github.com/thomasfevre/layerzero_dapp)
 
 <br />
 
