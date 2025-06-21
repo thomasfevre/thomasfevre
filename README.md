@@ -30,9 +30,11 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 ---
 
-### 🧪 Previous Side Projects
+### 🧪 Previous Side Projects 
 
-- **NO CODE LayerZero OFT MCP Server**
+<br /> 
+
+- **No-code LayerZero OFT MCP Server**
 
   A Node.js MCP server for creating, deploying, and bridging Omnichain Fungible Tokens (OFTs) across multiple chains using LayerZero.  
   Designed for integration with agents and LLMs via the Model Context Protocol (MCP).  
@@ -46,10 +48,22 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
     
 <br />
 
+- **LayerZero OFT DApp**
+
+  A visual interface built with React/Vite to **deploy & bridge** with LayerZero OFTs (Omnichain Fungible Tokens).
+  **Deploy OFTs** across testnets with wallet integration
+  Deterministic **same-address** deployment on **every chain** using CREATE2
+  Token **bridging** across chains via LayerZero
+  Powered by Wagmi, Viem, and TailwindCSS
+
+ 🔗 [View Repo](https://github.com/thomasfevre/layerzero_dapp)
+
+<br />
+
 - **Loyalty Pay**
     
-  The project is a Solana-based loyalty rewards dApp that enables merchants to create on-chain loyalty programs for their customers.
-  - The merchant can enter the amount he wants to receive, generate a QR-code, and then the customer scans it and everything is handled in a single transaction (paiement, rewards processing, nft mint/upgrade for the client, etc)
+  The project is a **Solana-based** loyalty rewards dApp that enables **merchants** to create **on-chain loyalty** programs for their customers.
+  - The merchant can enter the amount he wants to receive, generate a **QR-code**, and then the customer scans it and everything is handled in a **single transaction** (paiement, rewards processing, nft mint/upgrade for the client, etc)
       
   🔗 [View Demo](https://loyalty-program-sable.vercel.app/)
   🔗 [View Repo](https://github.com/thomasfevre/loyalty_program)  
