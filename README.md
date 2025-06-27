@@ -72,7 +72,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 
 - **Token Weighted MultiSig Diamond**
      
-  An experimental repo exploring advanced multi-signature mechanisms using the EIP-2535 Diamond Standard.  This repo compares and iterates on multisig strategies across multiple branches, with an emphasis on upgradability and governance logic.  
+  An experimental repo exploring advanced multi-signature mechanisms using the EIP-2535 Diamond Standard for upgradability and governance logic owned by token holders.
   - Traditional multisig logic using owner approvals (main branch) 
   - Facet upgrades (`diamondCut`) gated by multisig confirmations (branch n°2) 
   - A novel multisig model based on users’ ERC20 balances as voting weights (branch n°3)  
