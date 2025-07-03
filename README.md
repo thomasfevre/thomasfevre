@@ -22,7 +22,7 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
 ### 🚀 What I’m Currently Building
 
 - **ChillSplit** – A group expense tracker, fully On-Chain.
-  - Focusing on abstracting most of the web3 friction (using Dynamic.xyz wallet with hidden signatures, gas sponsorship, EIP 2612)
+  - Focusing on abstracting most of the web3 friction (using Dynamic.xyz wallet with hidden signatures, gas sponsorship, EIP 7702, 2612)
   - No direct "wallet" interactions for the user in the app, except for the ON-Ramping (=funding the wallet) process
   - Each group has a smart contract to manage expenses, approvals, and settlement.
 
