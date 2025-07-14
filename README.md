@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I specialize in smart contract development (Solidity, Rust on Solana), and also build fullstack web3 Dapps using TypeScript, JS  frameworks (Vue/React/Next/Angular), and mobile platforms like Flutter.
+I'm a passionate blockchain engineer and fullstack developer based in Paris-La Défense. My work involves the full development lifecycle: architecting secure smart contracts with Solidity and Rust, and then building the user-facing applications using TypeScript, modern JS frameworks, and mobile technologies like React Native and Flutter.
 
 ---
 
