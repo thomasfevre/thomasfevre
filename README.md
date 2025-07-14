@@ -26,11 +26,26 @@ I'm a blockchain engineer and fullstack developer based in Paris-La Défense. I 
   - No direct "wallet" interactions for the user in the app, except for the ON-Ramping (=funding the wallet) process
   - Each group has a smart contract to manage expenses, approvals, and settlement.
 
-*(Currently in a private repo on this github account, do not hesitate to contact me to know more)*
-
+- Live on Base Sepolia: [Try it](https://chill-split.vercel.app)  
+- Or watch the video demo : [Watch the video](https://1drv.ms/v/s!AtdUrFtj-JzFi_hO_W5SLLgNc1KF_Q)
+- 🔗 [View Repo](https://github.com/thomasfevre/chill-split)
 ---
 
 ### 🧪 Previous Side Projects 
+
+<br /> 
+
+- **Ride The Bet (Chiliz Hackathon)**
+
+  A decentralized prediction market built solo in 18 hours.
+  
+  Fans and influencers create prediction bets by staking Fan Tokens (like $PSG).
+  Users upvote (agree) or downvote (disagree), with the winning pool sharing the entire losing stake.
+  
+  Features on-chain influencer identities, a gamified leaderboard, and smooth blockchain interactions with Thirdweb.
+  
+  🔗 View Demo Video & Pitch on [Devfolio](https://devfolio.co/projects/ridethebet-b84a)  
+  🔗 [View Repo](https://github.com/thomasfevre/ride-the-bet)
 
 <br /> 
 
