@@ -19,7 +19,7 @@ I'm a passionate blockchain engineer and fullstack developer based in Paris-La D
 
 ---
 
-### 🚀 What I’m Currently Building
+### 🚀 My last Project
 
 - **ChillSplit** – A group expense tracker, fully On-Chain.
   - Focusing on abstracting most of the web3 friction (using Dynamic.xyz wallet with hidden signatures, gas sponsorship, EIP 7702, 2612)
@@ -32,6 +32,19 @@ I'm a passionate blockchain engineer and fullstack developer based in Paris-La D
 ---
 
 ### 🧪 Previous Side Projects 
+
+<br />
+
+- **Gotcha**
+  
+  A simple, open-source platform to share ideas, business concepts, or everyday gripes. Its purpose is to have a central hub for thinkers to post problems and builders to find inspiration and even collaborate.
+  - Login with Privy (email, Google, Twitter, Discord, Github, Passkeys)
+  - NextJS, Supabase, TanStack Query, zod, etc..  
+  
+  
+  🔗 View Demo Video: https://youtu.be/imHrUvRC-bI  
+  🔗 View Repo: https://github.com/thomasfevre/gotcha4
+
 
 <br /> 
 
