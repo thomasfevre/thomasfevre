@@ -15,9 +15,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate blockchain engineer and fullstack developer based in Paris-La Défense. My work involves the full development lifecycle: architecting secure smart contracts with Solidity and Rust, and then building the user-facing applications using TypeScript, modern frameworks (Vue/React/Next/Angular), and mobile technologies like React Native and Flutter.
+I'm a passionate blockchain engineer and fullstack developer, focused now on Data Analytics in the Defi space. My previous job involved also fullstack development lifecycle: architecting secure smart contracts with Solidity and Rust, and then building the user-facing applications using TypeScript, modern frameworks (Vue/React/Next/Angular), and mobile technologies like React Native and Flutter.
 
 ---
+### 🎥 Youtube
+My Youtube channel, where I break down web3 concepts in <10 min videos : https://www.youtube.com/channel/UCsCEEw6bq38N_ec3VQEbAVA/ 
+
+--- 
 
 ### 🚀 My last Project
 
