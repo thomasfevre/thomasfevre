@@ -23,7 +23,17 @@ My Youtube channel, where I break down web3 concepts in <10 min videos : https:/
 
 --- 
 
-### 🚀 My last Project
+### 🚀 My current Project
+
+- **Domin8** – An on-chain battle royale game where the last survivor pockets the jackpot.
+
+- 🔗 https://x.com/domin8Arena 
+
+---
+
+### 🧪 Previous Side Projects 
+
+<br />
 
 - **ChillSplit** – A group expense tracker, fully On-Chain.
   - Focusing on abstracting most of the web3 friction (using Dynamic.xyz wallet with hidden signatures, gas sponsorship, EIP 7702, 2612)
@@ -33,9 +43,6 @@ My Youtube channel, where I break down web3 concepts in <10 min videos : https:/
 - Live on Base Sepolia: [Try it](https://chill-split.vercel.app)  
 - Or watch the video demo : [Watch the video](https://1drv.ms/v/s!AtdUrFtj-JzFi_hO_W5SLLgNc1KF_Q)
 - 🔗 [View Repo](https://github.com/thomasfevre/chill-split)
----
-
-### 🧪 Previous Side Projects 
 
 <br />
 
