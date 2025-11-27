@@ -19,7 +19,7 @@ I'm a passionate blockchain engineer and fullstack developer, focused now on Dat
 
 ---
 ### 🎥 Youtube
-My Youtube channel, where I break down web3 concepts in <10 min videos : https://www.youtube.com/channel/UCsCEEw6bq38N_ec3VQEbAVA/ 
+My Youtube channel, where I break down web3 concepts in <10 min videos : https://youtube.com/@consolelog_gm 
 
 --- 
 
