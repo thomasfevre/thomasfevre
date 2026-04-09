@@ -23,7 +23,16 @@ My Youtube channel, where I break down web3 concepts in <10 min videos : https:/
 
 --- 
 
-### 🚀 My current Project
+### My Current Project 
+
+- **Skim** - Open the app, see your Youtube personal feed and click on any video to get a structured summary, with multiple levels of details  
+
+- 🔗 https://skim-app.xyz  
+
+
+--- 
+
+### My Contributions
 
 - **Domin8** – An on-chain battle royale game where the last survivor pockets the jackpot.
 
@@ -32,6 +41,10 @@ My Youtube channel, where I break down web3 concepts in <10 min videos : https:/
 ---
 
 ### 🧪 Previous Side Projects 
+
+<br />
+
+- **Gamma scalping bot on Solana** (currently LIVE): thread on X for more details https://x.com/GmaHedged 
 
 <br />
 
