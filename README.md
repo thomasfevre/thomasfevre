@@ -14,7 +14,7 @@
 
 I build practical products at the intersection of data, decentralized finance, and developer tooling. My current focus is DeFi data analytics and risk, with side projects spanning macOS utilities, AI-assisted workflows, smart contracts, and consumer applications.
 
-## Featured project
+## Featured projects
 
 ### [Lasso](https://github.com/thomasfevre/lasso)
 
@@ -31,15 +31,31 @@ Capture a deliberate rectangle, add pins or notes, and let Claude Code, Codex, o
   />
 </a>
 
+### [Skim](https://skim-app.xyz)
+
+A personal YouTube feed with structured summaries and multiple levels of detail.
+
+## Contributions
+
+### [Domin8](https://x.com/domin8Arena)
+
+An on-chain battle royale game where the last survivor takes the jackpot.
+
+### Gamma scalping bot on Solana
+
+A live delta-neutral trading experiment. [Follow the project on X](https://x.com/GmaHedged).
+
 ## Selected projects
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **Skim** | Turns a personal YouTube feed into structured summaries with multiple levels of detail. | [Website](https://skim-app.xyz) |
-| **ChillSplit** | An on-chain group expense tracker designed to hide most wallet and gas friction from users. | [App](https://chill-split.vercel.app) · [Source](https://github.com/thomasfevre/chill-split) |
-| **LayerZero OFT MCP** | An MCP server for deploying, configuring, and bridging omnichain tokens across testnets. | [Source](https://github.com/thomasfevre/layerzero_mcp) |
-| **Gotcha** | An open platform where people share problems and ideas that builders can explore. | [Source](https://github.com/thomasfevre/gotcha4) · [Demo](https://youtu.be/imHrUvRC-bI) |
-| **Ride The Bet** | A decentralized prediction market built solo during the Chiliz hackathon. | [Project](https://devfolio.co/projects/ridethebet-b84a) · [Source](https://github.com/thomasfevre/ride-the-bet) |
+- **[ChillSplit](https://github.com/thomasfevre/chill-split)**: on-chain group expenses with wallet and gas friction abstracted away. [Try the app](https://chill-split.vercel.app)
+- **[Gotcha](https://github.com/thomasfevre/gotcha4)**: an open platform where people share problems and ideas that builders can explore. [Demo](https://youtu.be/imHrUvRC-bI)
+- **[Ride The Bet](https://github.com/thomasfevre/ride-the-bet)**: a decentralized prediction market built solo during the Chiliz hackathon. [Project page](https://devfolio.co/projects/ridethebet-b84a)
+- **[LayerZero OFT MCP Server](https://github.com/thomasfevre/layerzero_mcp)**: deploy, configure, and bridge omnichain tokens through MCP.
+- **[LayerZero OFT DApp](https://github.com/thomasfevre/layerzero_dapp)**: a React interface for deploying and bridging LayerZero OFTs.
+- **[Loyalty Pay](https://github.com/thomasfevre/loyalty_program)**: Solana-based loyalty rewards with QR-driven payments and NFT rewards. [Demo](https://loyalty-program-sable.vercel.app/)
+- **[Token Weighted MultiSig Diamond](https://github.com/thomasfevre/Token-Weighted-Multisig-Diamond)**: an EIP-2535 experiment with token-weighted governance.
+- **[ERC-20 Token Alternative](https://github.com/thomasfevre/ERC-20-Alternative)**: an experimental on-chain trading model with algorithmic price levels. [Demo](https://next-web3-boilerplate-git-2project-ac976b-thomasfevres-projects.vercel.app/)
+- **BalanceEat**: a personal recipe blog focused on high-protein, low-fat, low-carb cooking. [Website](https://recipe-nodejs-mongodb.onrender.com/)
 
 ## What I work with
 
