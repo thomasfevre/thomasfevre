@@ -33,7 +33,7 @@ Capture a deliberate rectangle, add pins or notes, and let Claude Code, Codex, o
 
 ### [Skim](https://skim-app.xyz)
 
-A personal YouTube feed with structured summaries and multiple levels of detail.
+A personal YouTube feed with structured summaries and multiple levels of detail. [Demo](https://youtube.com/shorts/fZrNyYOKu1A?si=0PjFzyO-B8iZXjC5)
 
 ## Contributions
 
@@ -48,7 +48,7 @@ A live delta-neutral trading experiment. [Follow the project on X](https://x.com
 ## Selected projects
 
 - **[ChillSplit](https://github.com/thomasfevre/chill-split)**: on-chain group expenses with wallet and gas friction abstracted away. [Try the app](https://chill-split.vercel.app)
-- **[Gotcha](https://github.com/thomasfevre/gotcha4)**: an open platform where people share problems and ideas that builders can explore. [Demo](https://youtu.be/imHrUvRC-bI)
+- **[Gotcha](https://github.com/thomasfevre/gotcha4)**: an open platform where people share problems and ideas that builders can explore. [Demo](https://youtu.be/7V8aClBKM7I)
 - **[Ride The Bet](https://github.com/thomasfevre/ride-the-bet)**: a decentralized prediction market built solo during the Chiliz hackathon. [Project page](https://devfolio.co/projects/ridethebet-b84a)
 - **[LayerZero OFT MCP Server](https://github.com/thomasfevre/layerzero_mcp)**: deploy, configure, and bridge omnichain tokens through MCP.
 - **[LayerZero OFT DApp](https://github.com/thomasfevre/layerzero_dapp)**: a React interface for deploying and bridging LayerZero OFTs.
