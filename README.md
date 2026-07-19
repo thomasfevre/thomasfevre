@@ -26,8 +26,9 @@ Capture a deliberate rectangle, add pins or notes, and let Claude Code, Codex, o
 
 <a href="https://thomasfevre.github.io/lasso/">
   <img
-    src="https://raw.githubusercontent.com/thomasfevre/lasso/main/site/assets/screenshots/lasso-capture-detail.jpg"
+    src="https://github.com/user-attachments/assets/00ea6df0-f04c-4a67-8b90-0ba66038d80e"
     alt="Lasso capture detail with a screenshot, annotation pin, note, tags, and local context"
+    height="500px"
   />
 </a>
 
