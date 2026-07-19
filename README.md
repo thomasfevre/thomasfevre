@@ -36,6 +36,9 @@ Capture a deliberate rectangle, add pins or notes, and let Claude Code, Codex, o
 
 A personal YouTube feed with structured summaries and multiple levels of detail. [Demo](https://youtube.com/shorts/fZrNyYOKu1A?si=0PjFzyO-B8iZXjC5)
 
+<img width="1413" height="698" alt="screenshot 2026-07-19 à 18 29 26" src="https://github.com/user-attachments/assets/ba224f6f-0ef6-4c68-9e55-2882f4ec2acb" />
+
+
 ## Contributions
 
 ### [Domin8](https://x.com/domin8Arena)
@@ -44,7 +47,7 @@ An on-chain battle royale game where the last survivor takes the jackpot.
 
 ### Gamma scalping bot on Solana
 
-A live delta-neutral trading experiment. [Follow the project on X](https://x.com/GmaHedged).
+A live delta-neutral trading experiment. [Halted - read about the project on X](https://x.com/GmaHedged).
 
 ## Selected projects
 
