@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/thomas-fevre-6853b51a1/">X</a>
+  
   <a href="https://www.linkedin.com/in/thomas-fevre-6853b51a1/">LinkedIn</a>
   ·
   <a href="https://youtube.com/@consolelog_gm">YouTube</a>
