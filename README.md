@@ -16,9 +16,9 @@
 
 I build products at the intersection of AI agents, data, and developer tooling. My current focus is Locus, an interface for a human running several agent workers across several projects at once — a problem of attention, not of chat. My background is in DeFi data analytics and risk, with side projects spanning macOS utilities, smart contracts, and consumer applications.
 
-## Featured projects
+## Current projects
 
-### [Locus](https://github.com/thomasfevre/bb-plugin-suite)
+### Locus
 
 **An agent workspace built around human attention, not conversations.**
 
@@ -28,13 +28,13 @@ It is early and evolving: coordinator and workers on remote hosts, Linear issues
 
 [Read the essay: When Agent Chats Stop Scaling](https://substack.com/home/post/p-217646460)
 
+## Previous projects
+
 ### [Skim](https://skim-app.xyz)
 
 A personal YouTube feed with structured summaries and multiple levels of detail. [Demo](https://youtube.com/shorts/fZrNyYOKu1A?si=0PjFzyO-B8iZXjC5)
 
 <img width="1413" height="698" alt="screenshot 2026-07-19 à 18 29 26" src="https://github.com/user-attachments/assets/ba224f6f-0ef6-4c68-9e55-2882f4ec2acb" />
-
-## Previous project
 
 ### [Lasso](https://github.com/thomasfevre/lasso)
 
