@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thomas 👋</h1>
 
 <p align="center">
-  <strong>Data, DeFi, and product engineering</strong>
+  <strong>Agent interfaces, DeFi data, and product engineering</strong>
 </p>
 
 <p align="center">
@@ -14,9 +14,27 @@
   <a href="mailto:thomas.fevre@outlook.com">Email</a>
 </p>
 
-I build practical products at the intersection of data, decentralized finance, and developer tooling. My current focus is DeFi data analytics and risk, with side projects spanning macOS utilities, AI-assisted workflows, smart contracts, and consumer applications.
+I build products at the intersection of AI agents, data, and developer tooling. My current focus is Locus, an interface for a human running several agent workers across several projects at once — a problem of attention, not of chat. My background is in DeFi data analytics and risk, with side projects spanning macOS utilities, smart contracts, and consumer applications.
 
 ## Featured projects
+
+### [Locus](https://github.com/thomasfevre/bb-plugin-suite)
+
+**An agent workspace built around human attention, not conversations.**
+
+Locus is a bb plugin for the "mid-scale" case: one person operating roughly 5–30 active agent workers across multiple projects. Instead of a flat list of chats, it maps the work as a tree — teams and projects, then workers with compressed status, then work items, recent messages, files and PRs only when something needs your attention. The chat becomes a secondary view of that structure, and the UI keeps a stable spatial layout so you don't rebuild the mental model every time you come back.
+
+It is early and evolving: coordinator and workers on remote hosts, Linear issues, pull-request review status, and an Observer mode for commenting on what the agents are doing.
+
+[Read the essay: When Agent Chats Stop Scaling](https://substack.com/home/post/p-217646460)
+
+### [Skim](https://skim-app.xyz)
+
+A personal YouTube feed with structured summaries and multiple levels of detail. [Demo](https://youtube.com/shorts/fZrNyYOKu1A?si=0PjFzyO-B8iZXjC5)
+
+<img width="1413" height="698" alt="screenshot 2026-07-19 à 18 29 26" src="https://github.com/user-attachments/assets/ba224f6f-0ef6-4c68-9e55-2882f4ec2acb" />
+
+## Previous project
 
 ### [Lasso](https://github.com/thomasfevre/lasso)
 
@@ -33,13 +51,6 @@ Capture a deliberate rectangle, add pins or notes, and let Claude Code, Codex, o
     height="500px"
   />
 </a>
-
-### [Skim](https://skim-app.xyz)
-
-A personal YouTube feed with structured summaries and multiple levels of detail. [Demo](https://youtube.com/shorts/fZrNyYOKu1A?si=0PjFzyO-B8iZXjC5)
-
-<img width="1413" height="698" alt="screenshot 2026-07-19 à 18 29 26" src="https://github.com/user-attachments/assets/ba224f6f-0ef6-4c68-9e55-2882f4ec2acb" />
-
 
 ## Contributions
 
@@ -65,13 +76,13 @@ A live delta-neutral trading experiment. [Halted - read about the project on X](
 
 ## What I work with
 
-- **Product and data:** DeFi analytics, risk systems, automation, AI-assisted workflows
+- **Product and data:** agent orchestration, DeFi analytics, risk systems, automation
 - **Applications:** TypeScript, React, Next.js, Vue, React Native, Swift
 - **Blockchain:** Solidity, Rust, Solana, EVM, smart contract architecture
-- **Developer tooling:** MCP, local agents, APIs, data pipelines
+- **Developer tooling:** MCP, local agents, plugin systems, APIs, data pipelines
 
 ## Content and experiments
 
-I publish short videos that break down Web3 concepts in under 10 minutes on [YouTube](https://youtube.com/@consolelog_gm).
+I publish short videos that break down Web3 concepts in under 10 minutes on [YouTube](https://youtube.com/@consolelog_gm), and I write about agent interfaces — most recently in [When Agent Chats Stop Scaling](https://substack.com/home/post/p-217646460).
 
-You can also browse my repositories for experiments around DeFi, agent tooling, smart contracts, and product engineering.
+You can also browse my repositories for experiments around agents, DeFi, and product engineering.
