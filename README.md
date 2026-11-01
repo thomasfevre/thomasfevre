@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thomas-fevre-6853b51a1/">X</a>
+  <a href="https://x.com/__finality__">X</a>
   ·
   <a href="https://www.linkedin.com/in/thomas-fevre-6853b51a1/">LinkedIn</a>
   ·
